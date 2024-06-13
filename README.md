@@ -1,14 +1,8 @@
 # Video demo: [link](https://youtu.be/6ODeQfSVcok)
 # Báo cáo: [link](https://drive.google.com/file/d/1g9XpeJO1sbL2Br0xPcMpLOP1NAKDS65-/view?usp=sharing)
 # Link hệ thống: [link](http://52.62.128.172:2004/)
-## Thành Viên
 
-1. Bùi Đức Mạnh - 22022602
-2. Nguyễn Việt Bắc - 22022511
-3. Hoàng Bùi Tuấn Anh - 22022611
-4. Lê Hoàng Anh - 22022563
 ## Hướng Dẫn Cài Đặt
-
 
 ## Gitflow
 ### Được giao task mới
